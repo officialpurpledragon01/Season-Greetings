@@ -1,0 +1,11 @@
+body{
+				text-align:center;
+				background-image: radial-gradient(green, white, green);
+				background-position:center;
+				background-repeat: no-repeat;
+				background-size: 200px;
+				margin: 0;
+}
+.purple{color:purple;}
+.green{color:green;}
+.white{color:white;}

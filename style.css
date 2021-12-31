@@ -1,0 +1,44 @@
+body{
+				font-family: Times New Roman;
+				background-image: linear-gradient(to bottom right, yellow, blue, red);
+				background-repeat: no-repeat;
+				line-height: 28px;
+				tex-align: center;
+				margin-top: 10%;
+}
+#box{
+				text-align: center;
+				display: inline-block;
+				background-color: #d024d6;
+				color: white;
+				padding: 5px;
+				border-radius: 50px;
+				text-decoration:none;
+}
+#name, #nickname, #pass{
+				color: white;
+				background: #d024d6;
+				border: none;
+				font-size: 16px;
+				border-bottom: solid grey 2px;
+				text-align: center;
+				padding: 10px;
+				text-decoration: none;
+				outline: none;
+}
+#purple{color:purple;}
+button{
+				background-color: #0096ff;
+				padding:5px 10px;
+				width: 150px;
+				height: auto;
+				border: #b5c9f1 2px solid;
+				border-radius: 50px;
+				color: white;
+				font-weight: 1000;
+				font-size:16px ;
+				text-decoration: none;
+}
+hr{
+				border: #ffffbf groove 2px;
+}
